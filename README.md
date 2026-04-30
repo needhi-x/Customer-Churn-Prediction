@@ -116,7 +116,7 @@ Customer-Churn-Prediction/
 ## 📸 Screenshots
 
 ### 🏠 Home UI
-![home](images/ui_home.png)
+![home](images/ui_input_page.png)
 
 ### 📊 Prediction Result
 ![result](images/prediction_result.png)
