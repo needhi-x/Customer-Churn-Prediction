@@ -77,7 +77,7 @@ Data → Cleaning → Encoding → Training → Evaluation → Deployment
 
 ---
 
-## 🖥️ How to Run Locally
+
 ## 🖥️ How to Run Locally
 
 ### 1️⃣ Clone Repository
